@@ -1,0 +1,73 @@
+
+header {
+  background-color: black;
+  padding: 1px;
+  font-size: 5px;
+  text-align: center;
+  color: white;
+}
+input { 
+  text-align: center;
+  border  : 1px  solid blue ;
+  padding :5px ;
+  margin: 5px;  
+  border: 1px solid powderblue;
+  width:80%;
+}
+body 
+{
+  background-image: url("hhh.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+}
+footer {
+  background-color: black;
+  padding: 1px;
+  font-size: 8px;
+  text-align: center;
+  color: white;
+}
+label {   
+  text-align: center;
+  padding : 9px ;
+}
+table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 18%;
+}
+#wep {
+  margin: -45px 30px 300px 450px;
+
+}
+.Submit {
+  position:relative; 
+  top: 0px; 
+  text-align: center;
+  right: 180px;
+  font-size: 22px;
+}
+form {
+  text-align: center;
+}
+textarea{
+  border: 3px solid  powderblue; 
+}
+a{
+  text-align: left ; 
+}
+button {
+  color: white !important;
+  background: rgb(0, 140, 255);
+  padding: 10px;
+  display: inline-block;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-radius: 10px;
+  border: none;
+  transition: all 0.4s ease 0s;
+}  
+ 
+
